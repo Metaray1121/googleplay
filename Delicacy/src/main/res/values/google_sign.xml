@@ -5,6 +5,6 @@
          from https://console.developers.google.com/ -->
 
     <!--    web-->
-    <string name="server_client_id">337166029484-417qd6a25pbghsqekucogg9gqv3h92cf.apps.googleusercontent.com</string>
+    <string name="server_client_id">***</string>
 
 </resources>
