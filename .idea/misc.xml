@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android-Work/CH21-Googlepaly/Delicacy/src/main/res/layout/m0600.xml" value="0.3338541666666667" />
+        <entry key="..\:/Android-Work/CH21-Googlepaly/Delicacy/src/main/res/layout/m0600_collect.xml" value="0.3338541666666667" />
+        <entry key="..\:/Android-Work/CH21-Googlepaly/Delicacy/src/main/res/layout/nogooglesignin.xml" value="0.32737487231869256" />
+        <entry key="..\:/Android-Work/CH21-Googlepaly/Delicacy/src/main/res/menu/m0600_bottom.xml" value="0.3338541666666667" />
+        <entry key="..\:/Android-Work/CH21-Googlepaly/Delicacy/src/main/res/menu/m0600_main.xml" value="0.3338541666666667" />
+        <entry key="..\:/Android-Work/CH21-Googlepaly/Delicacy/src/main/res/menu/m0600_sub.xml" value="0.3338541666666667" />
+        <entry key="..\:/Android-Work/CH21-Googlepaly/Delicacy/src/main/res/menu/main.xml" value="0.3338541666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

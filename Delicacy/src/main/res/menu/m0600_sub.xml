@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/m_return"
+        android:orderInCategory="999"
+        android:title="@string/action_settings" />
+
+    <item
+        android:id="@+id/m_mysql"
+        android:orderInCategory="899"
+        android:title="@string/m_mysql"
+        android:visible="false" />
+</menu>

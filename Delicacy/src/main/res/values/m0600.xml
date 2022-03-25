@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0600_dialog_title">台灣好美食</string>
+    <string name="m0600_dialog_b001">讀取資料</string>
+
+    <string name="m0600_dialog_t001">啟動:</string>
+    <string name="m0600_dialog_positive">是</string>
+    <string name="m0600_dialog_negative">否</string>
+    <string name="m0600_dialog_neutral">取消</string>
+    <string name="m0600_descr">說明:</string>
+    <string name="m0600_t001">選擇:</string>
+    <string name="m0600_name">名稱:</string>
+    <string name="m0600_add">地址:</string>
+    <string name="m0600_img">圖片</string>
+    <string name="m0600_opendata">匯入opendata</string>
+    <string name="m0600_title">請稍等</string>
+    <string name="m0600_message">towaiting</string>
+    <string name="m0600_ncount">共計:</string>
+    <string name="m0600_loading">數據載入中</string>
+    <string name="m0600_Zipcode">郵遞區號:</string>
+    <string name="m0600_menu_top">跳到首筆</string>
+    <string name="m0600_menu_end">跳到尾筆</string>
+    <string name="m0600_loadover">重新載入完成</string>
+    <string name="m0600_menu_next">+100</string>
+    <string name="m0600_menu_back">-100</string>
+    <string name="m0600_mWebsite">網站</string>
+    <string name="m0600_action_setting">離開</string>
+    <string name="m0600_map">顯示位置</string>
+    <string name="m0600_Content">說明:</string>
+    <string name="m0600_collect">收藏最愛</string>
+
+    <string name="m0600_t002">資料表清單</string>
+    <string name="m0600_m_add">新增</string>
+    <string name="m0600_m_query">查詢</string>
+    <string name="m0600_m_collect">我的收藏</string>
+    <string name="m0600_m_delete">刪除</string>
+    <string name="m0600_btnadd">新增</string>
+    <string name="m0600_btnquery">查詢</string>
+    <string name="m0600_btnlist">清單</string>
+    <string name="m0600_btndel">刪除</string>
+    <string name="m0600_btnupdate">更新</string>
+    <string name="m0600_tv001">店名：</string>
+    <string name="m0600_tv002">電話：</string>
+    <string name="m0600_tv003">地址：</string>
+    <string name="m0600_count_t">共計:</string>
+    <string name="m0600_nofound">施工中</string>
+    <string name="m0600_hint">請填入資料</string>
+    <string name="m0600_ans">內容:</string>
+    <string name="m0600_blank">空白</string>
+    <string name="m0600_batch">批次新增</string>
+    <string name="m0600_clear">清除資料</string>
+
+
+    <string name="m0600_tvIdTitle">資料內容</string>
+    <string name="m0600_btIdnext">下筆</string>
+    <string name="m0600_btIdPrev">上筆</string>
+    <string name="m0600_btIdtop">首筆</string>
+    <string name="m0600_btIdend">尾筆</string>
+    <string name="m0600_clearAll">清除所有資料</string>
+    <string name="m0600_check">資料無法復原,確定刪除嗎?</string>
+    <string name="m0600_Yes">確定清空</string>
+    <string name="m0600_No">取消</string>
+    <string name="m0600_msg2">取消</string>
+    <string name="m0600_text">ID:</string>
+    <string name="m0600_recommend">推薦餐廳</string>
+    <string name="m0600_bottom_search">搜尋餐廳</string>
+
+    <string name="m_mysql">匯入MySQL</string>
+    <string name="nogooglesignin">餐廳</string>
+</resources>

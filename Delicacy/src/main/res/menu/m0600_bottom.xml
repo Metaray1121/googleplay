@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/m0600_bottom_recommend"
+        android:title="@string/m0600_recommend" />
+    <item
+        android:id="@+id/m0600_bottom_search"
+        android:title="@string/m0600_bottom_search" />
+</menu>
